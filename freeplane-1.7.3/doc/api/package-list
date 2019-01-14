@@ -1,0 +1,6 @@
+org.freeplane.api
+org.freeplane.core.ui.components
+org.freeplane.core.util
+org.freeplane.launcher
+org.freeplane.plugin.script
+org.freeplane.plugin.script.proxy
